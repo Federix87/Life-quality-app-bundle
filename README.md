@@ -11,5 +11,6 @@ Ho sviluppato il progetto usando html, css, javascript e webpack cercando di cos
 Ho usato axios.js per effettuare chiamate esterne verso l'API di Teleport (anche se al momento da problemi sulle varie ricerche delle città).
 Per quanto riguarda la creazione degli elementi ho usato proprietà come 'createElement', 'classList', 'add' e 'append' inserendo dinamicamente i dati restituiti dall'oggetto della chiamata all'API.<br/>
 Ho implementato sempre con js delle propietà di transizione con 'tranform' e 'transition'. Per finire ho suddiviso le chimate con axios, la creazione degli elementi e le transizioni in funzioni diverse distribuite nei vari moduli che ho creato. <br/>
+Repository codice sorgente: https://github.com/Federix87/Life-quality-app.
 
    <strong> Spero che il progetto vi piaccia, buona visione! <strong/>
