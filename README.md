@@ -9,6 +9,7 @@ Ho sviluppato il progetto usando html, css, javascript e webpack cercando di cos
 - Css per lo styling dei vari componente anche se il progetto NON è RESPONSIVE.<br/>
 - Invece ho usato JAVASCRIPT per la maggior parte del progetto suddividendo i progetti in moduli che poi ho raggruppato usando Webpack nelle sue diverse funzionalità quali plugin: css-loader e file loader.<br/>
 Ho usato axios.js per effettuare chiamate esterne verso l'API di Teleport (anche se al momento da problemi sulle varie ricerche delle città).
-Per quanto riguarda la creazione degli elementi ho usato proprietà come 'createElement', 'classList', 'add' e 'append'. Ho implementato sempre con js delle propietà di transizione con 'tranform' e 'transition'. Per finire ho suddiviso le chimate con axios, la creazione degli elementi e le transizioni in funzioni diverse distribuite nei vari moduli che ho creato. <br/>
+Per quanto riguarda la creazione degli elementi ho usato proprietà come 'createElement', 'classList', 'add' e 'append' inserendo dinamicamente i dati restituiti dall'oggetto della chiamata all'API.<br/>
+Ho implementato sempre con js delle propietà di transizione con 'tranform' e 'transition'. Per finire ho suddiviso le chimate con axios, la creazione degli elementi e le transizioni in funzioni diverse distribuite nei vari moduli che ho creato. <br/>
 
    <strong> Spero che il progetto vi piaccia, buona visione! <strong/>
